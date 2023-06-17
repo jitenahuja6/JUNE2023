@@ -1,0 +1,4 @@
+# Created at 2023-06-16T15:16:42.597
+Boot Manifest-JAR contains absolute paths in classpath 'E:\workspace\Feb023\StringPallindrome\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

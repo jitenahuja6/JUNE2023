@@ -1,0 +1,6 @@
+projectKey=com.java:StringPallindrome
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=com.java%3AStringPallindrome
+ceTaskId=AYjDme8rrOb6Bz_fiD_N
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjDme8rrOb6Bz_fiD_N
